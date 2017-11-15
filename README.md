@@ -1,7 +1,7 @@
 # AndKey
-JavaScript键盘快捷键绑定，快捷键组合绑定插件
 
-使用：
+JavaScript键盘快捷键绑定，快捷键组合绑定插件,响应ctrl+A:
+
 <pre><code>
 $(document).AndKey({
   bindKey:"ctrl+A",
