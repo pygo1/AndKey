@@ -1,7 +1,7 @@
 $.fn.AndKey = function(options) {
     "use strict"
     var _options ={
-        bindKey:"A",
+        bindKey:"",
         model:"once",//once loop
         interval:50,
         context:this,
